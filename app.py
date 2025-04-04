@@ -1,5 +1,5 @@
 import nltk
-
+import os
 from nltk.tokenize import word_tokenize, sent_tokenize
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
@@ -7,9 +7,16 @@ import string
 import streamlit as st
 
 
-nltk.download('punkt')
-nltk.download('stopwords')
-nltk.download('wordnet')
+
+
+# Téléchargement des ressources NLTK si elles ne sont pas déjà là
+nltk_data_dir = os.path.join(os.path.expanduser("~"), "nltk_data")
+nltk.download('punkt', download_dir=nltk_data_dir)
+nltk.download('stopwords', download_dir=nltk_data_dir)
+nltk.download('wordnet', download_dir=nltk_data_dir)
+
+# Dire à nltk où chercher les données
+nltk.data.path.append(nltk_data_dir)
 
 # Charger le fichier texte et séparer les questions et réponses
 with open("chatbot.txt", 'r', encoding='utf-8') as f:
