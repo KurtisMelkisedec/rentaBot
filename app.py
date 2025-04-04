@@ -70,8 +70,8 @@ def chatbot(question):
 
 # Créer une application Streamlit
 def main():
-    st.title("Renta Car")
-    st.write("Bonjour et bienvenue ! Je suis Rentabot, votre assistant virtuel. Je suis là pour répondre à toutes vos questions concernant l'entreprise Rentabot. Comment puis-je vous aider aujourd'hui ?")
+    st.title("RentaCar")
+    st.write("Bonjour! Je suis Rentabot, votre assistant virtuel. Je suis là pour répondre à toutes vos questions concernant l'entreprise de location/vente de voiture RentaCar. Comment puis-je vous aider aujourd'hui ?")
 
     # Initialiser la variable de boucle
     continue_chatting = True
