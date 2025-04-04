@@ -57,7 +57,8 @@ def get_most_relevant_answer(query):
             max_similarity = similarity
             most_relevant_question = question
             most_relevant_answer = qa_pairs[question]
-
+    if max_similarity == 0:
+         most_relevant_answer = "Désolé, je ne comprends pas bien votre question."
     return most_relevant_answer
 
 # Définir la fonction du chatbot
@@ -69,8 +70,8 @@ def chatbot(question):
 
 # Créer une application Streamlit
 def main():
-    st.title("Chatbot National Car Rental")
-    st.write("Bonjour ! Je suis le chatbot de National Car Rental. Posez-moi des questions sur nos services de location de voitures.")
+    st.title("Renta Car")
+    st.write("Bonjour et bienvenue ! Je suis Rentabot, votre assistant virtuel. Je suis là pour répondre à toutes vos questions concernant l'entreprise Rentabot. Comment puis-je vous aider aujourd'hui ?")
 
     # Initialiser la variable de boucle
     continue_chatting = True
