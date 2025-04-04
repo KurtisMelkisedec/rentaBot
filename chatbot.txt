@@ -1,0 +1,51 @@
+Question,Réponse
+Bonjour,Bonjour, comment tu vas ?
+Salut, Bonjour, comment-puis je t'aider ?
+Comment tu vas ?, Je me porte très bien et toi ?
+ça va ?, oui moi ça va super et toi ?
+C'est quoi RentaCar?,RentaCar est une entreprie qui se charge de la location et vente de voiture de différentes marques avec des prix abordable
+Quel voiture vendez vous ?,Pour le moment on a 4 différentes marques de voiture. Peugeot,Toyota,Hyundai et Renault.Mais on prévoit d'en ajouter
+Quelle prix pour les voitures?, Pour l'achat d'une voiture, c'est entre 4 millions et 10 millions. Et pour la location c'est 25.000 la journée.
+Que sais-tu faire ?, Pour le moment je peux juste te donner des informations sur la location et vente de voiture chez RentaCar
+Tu as un nom?, Oui oui je m'appele RentaBot
+Comment tu t'appelles ?, Je m'appelle RentaBot
+Qui t'as crée ?, Le prénom de mon créateur est Kurtis Mélkisédec
+Qui t'as développé?, Celui qui a réaliser cette application s'appelle Kurtis Melkisédec
+Comment faire pour réservez ?, Pour une réservation contactez le numéro suivant +221 77 669 30 27
+Quels documents faut-il pour louer/acheter ?, Il vous faut une pièce d'identité valide et un permis de conduire.
+Combien de temps à l’avance faut-il réserver ?, L’idéal est de réserver au moins 24h à l’avance, mais des fois, c’est parfois possible le jour-même.
+Peut-on payer en plusieurs fois ?, Pour les achats de voitures, oui, nous proposons des options de paiement en plusieurs fois.Mais pas pour la location
+Les voitures sont-elles assurées ?, Bien sûr, toutes nos voitures sont assurées pour votre sécurité et celle des autres.
+Puis-je annuler une réservation ?, Oui, l’annulation est gratuite si elle est faite 12h avant l’heure prévue.
+Je peux venir voir les voitures ?, Oui, notre showroom est ouvert au public. Nous sommes situé à Ouest-foire près de KA HOUSE, contactez le +221 776693027.
+Est-ce que je peux louer sans permis ?, Malheureusement non, un permis valide est obligatoire pour toute location.
+Combien de temps dure la location ?, La durée est flexible, ça peut être quelques heures, une journée, ou même plusieurs semaines.
+Vous êtes ouverts quel jour ?, Nous sommes ouverts du lundi au samedi, de 8h à 18h.
+Vous êtes situez ou ?, Nous somme situé à Ouest-foire près de KA HOUSE, contactez le +221 776693027
+Quels modèles avez-vous pour Peugeot ?, Pour Peugeot, nous proposons la 208, la 301 et le SUV 3008. Les prix d’achat vont de 5.500.000 à 9.000.000 FCFA.
+Et pour Toyota ?, Nous avons la Toyota Yaris, la Corolla et le RAV4. Pour l’achat, les prix varient entre 6.000.000 et 10.000.000 FCFA.
+Quels modèles Hyundai sont disponibles ?, Nous proposons la Hyundai i10, Accent et Tucson. Les prix d’achat vont de 4.500.000 à 8.500.000 FCFA.
+Quels modèles Renault avez-vous ?, Nous avons la Renault Clio, Duster et Megane. Les prix d’achat vont de 5.000.000 à 9.000.000 FCFA.
+Combien coûte une location à l’heure ?, Les tarifs à l’heure commencent à partir de 5.000 FCFA. Le prix dépend du modèle choisi.
+C’est possible de louer juste pour 2 ou 3 heures ?, Oui, vous pouvez louer pour quelques heures. Par exemple, une 208 peut être louée à 5.000 FCFA l’heure.
+Quels sont les tarifs horaires pour les Toyota ?, Pour la Yaris, c’est 6.000 FCFA/heure. La Corolla est à 7.000 FCFA/heure. Le RAV4 est à 9.000 FCFA/heure.
+Et pour une Hyundai ?, La Hyundai i10 est à 5.000 FCFA/heure, l’Accent à 6.000 FCFA/heure, et le Tucson à 8.000 FCFA/heure.
+La Renault Clio est-elle disponible à l’heure ?, Oui, elle est à 6.000 FCFA/heure. La Duster est à 8.000 FCFA/heure et la Mégane à 7.500 FCFA/heure.
+Est-ce qu’il y a un minimum d’heures à respecter ?, Oui, la durée minimale de location est de 2 heures.
+Puis-je passer d’une location à l’heure à une journée complète ?, Bien sûr ! Si vous prolongez, on applique automatiquement le tarif journalier à partir de 5 heures.
+Y a-t-il des frais supplémentaires ?, Pas de frais cachés. Le tarif comprend l’assurance et l’entretien. Le carburant est à la charge du client.
+Et si je rends la voiture en retard ?, Un léger dépassement est toléré, mais au-delà d’une heure, un supplément est appliqué.
+Les voitures sont-elles remises avec le plein ?, Oui, les voitures sont remises avec le plein. Vous devez les ramener dans le même état.
+
+
+
+
+
+
+
+
+
+
+
+
+ 
