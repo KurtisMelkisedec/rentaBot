@@ -87,7 +87,7 @@ def main():
 
             # Appeler la fonction du chatbot avec la question et afficher la réponse
             response = chatbot(question)
-            st.write(f"Chatbot: {response}")
+            st.write(f"Rentabot: {response}")
 
         # Demander à l'utilisateur s'il souhaite continuer
         continue_chatting = st.checkbox("Continuer à discuter?", key=f"checkbox_{iteration}")
